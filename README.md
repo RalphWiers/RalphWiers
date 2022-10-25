@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RalphWiers
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, REVEAL, BOOTSTRAP5
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 
